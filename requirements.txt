@@ -3,6 +3,7 @@ langchain-community
 langchain-groq
 unstructured
 selenium
+pysqlite3-binary
 chromadb
 streamlit
 pandas
